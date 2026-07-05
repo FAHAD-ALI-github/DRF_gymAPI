@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![Django](https://img.shields.io/badge/Django-success?logo=django)
 ![Django REST Framework](https://img.shields.io/badge/DRF-API-red)
 ![PythonAnywhere](https://img.shields.io/badge/Hosted%20on-PythonAnywhere-green)
@@ -47,7 +47,7 @@ This API is used by the **FitnessPro React** frontend.
 
 Frontend Repository:
 
-https://github.com/FAHAD-ALI-github/YOUR_FRONTEND_REPOSITORY
+https://github.com/FAHAD-ALI-github/reactjs-fitnesspro
 
 Live Website:
 
@@ -64,9 +64,9 @@ This repository is maintained on GitHub so the latest source code can easily be 
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/FAHAD-ALI-github/YOUR_BACKEND_REPOSITORY.git
+git clone https://github.com/FAHAD-ALI-github/DRF_gymAPI.git
 
-cd YOUR_BACKEND_REPOSITORY
+cd DRF_gymAPI
 
 pip install -r requirements.txt
 
